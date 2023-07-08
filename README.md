@@ -62,4 +62,8 @@ Check your order again, then check one of the payment methods. Niagahoster provi
 
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/f04a5c7c-f9d1-4e09-bc12-248ccd86b62b)
 
+verification
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/f6dc2874-2154-4686-b3c0-e05ee3b7a421)
+
+
 
