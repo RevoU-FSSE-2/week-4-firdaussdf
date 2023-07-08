@@ -26,6 +26,10 @@ To import an existing project the first step is to Connect to Git Provider
 # Select your repository
 Once you grant permission to Netlify, you can see a list of all your repositories. Select your website to publish. You can find it by either scrolling down the list or using the search bar to narrow down the list.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/75f200d8-c2fe-4a8f-81d4-d0372fd2b85f)
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/5a3609f1-620e-4ee3-bddb-4979fe3342eb)
+deploy your project 
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/c7d94420-c313-408e-90cc-de67afff9388)
+
 
 # Configure your settings
 After selecting your website, you will be prompted to configure the setting. click Deploy site to continue.
