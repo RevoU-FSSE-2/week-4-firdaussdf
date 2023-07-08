@@ -12,6 +12,7 @@ Signing up on Netlify is  Here is step:
 
 # Login to Netlify Account
 Visit Netlify and log in to your account using  email or github account as shown in the below image.
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/40349293-3977-48d7-a097-7d3d5cb90b3a)
 
 For authorizing Netflify with the help of Github click on Authorize Netlify.
 
