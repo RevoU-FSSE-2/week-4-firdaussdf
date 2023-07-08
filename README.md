@@ -87,7 +87,47 @@ After that, you will be directed to the CloudFlare Package that will be used. Th
 # Changing Nameservers in the Niagahoster Member Area
 1. You can first record or copy Nameservers 1 and 2 from the Cloudflare dashboard
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/2e7df7db-4b86-43d9-86b1-f572f64aa645)
-2.
+
+2. Enter the Niagahoster Member Area. Select your Services menu, then click the Domains submenu. Next, click the Manage Service button to set the name server.
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/8439a526-6270-4167-b37f-f198b8976c72)
+
+3.In the Domain Overview section, click the Change Nameserver button.
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/ff412e27-fc9b-49ba-80a5-548230ce815b)
+
+4. Then, make sure Nameservers 1 and 2 match the Nameservers on the Cloudflare dashboard.
+
+5. If the domain Nameservers have been adjusted, then try reloading the Cloudflare dashboard page. Make sure the message “Great news! Cloudflare is now protecting your site.”
+
+#Verifying Nameservers on Cloudflare
+
+After the nameservers have been connected, now is the time for you to verify the nameservers on Cloudflare. The verification process is actually very easy, namely checking and making sure whether the domain status is Active on Cloudflare. If the status is still Pending, you need to repeat the steps to change the nameservers for the domain in the Niagahoster Member Area.
+
+Here are the steps to verify nameservers on Cloudflare:
+
+1. You can re-login to Cloudflare here: dash.cloudflare.com/login. Enter the account email and password. Then, click Log in.
+2. You will be redirected to a page to the Home page. Note the status of the domain:
+
+Active: Domain nameservers have been successfully adjusted.
+Pending: Still in the propagation period or the domain nameservers have not been adjusted.
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/5a155714-413d-4356-9be7-cb7805856eb9)
+
+## Configuration Domain to Connect Netlify
+choose cname
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/df07576d-71b1-4876-9044-10282304bc9e)
+
+Then, copy your nameserver domain from netlify, add "@" to name "required" in cloudflare. click "save"
+
+## Last step
+then add domain in netlify and write your domain custom name.wait verified process, then click "add domain"
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/1aaedb13-4130-4321-835d-403e0fdd1383)
+
+custom domain can be accessed..
+![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/bae16a25-3554-4b4b-aeb1-5ab7e7bc5f90)
+
+This is my custom domain https://belajarmesin.site/
+
+
+
 
 
 
