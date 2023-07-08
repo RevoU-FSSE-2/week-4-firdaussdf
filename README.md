@@ -16,3 +16,4 @@ Visit Netlify and log in to your account using  email or github account as sho
 For authorizing Netflify with the help of Github click on Authorize Netlify.
 
 After successful authorization, you will be redirected to the deployment page as shown in the below screenshot. You can deploy the app directly from Git, using templates, or manually uploading. Click on Import from Git button
+
