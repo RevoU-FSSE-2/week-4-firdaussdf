@@ -41,11 +41,11 @@ Your website is ready to publish Netlify will do the rest of the work for you, a
 ## Buy Hosting at Niagahoster
 
 
-1. Visit the Niagahoster website. Click Menu Hosting.
+- Visit the Niagahoster website. Click Menu Hosting.
 
 The first step, visit the Niagahoster website. In the menu on the top bar, select the type of hosting you want. Here, we give an example by choosing the Unlimited Hosting service.
 
-2. Click the Select Package button on the hosting service you want
+- Click the Select Package button on the hosting service you want
 
 Now, you are redirected to the hosting page of your choice. You will see several package options according to the type of hosting service.
 
