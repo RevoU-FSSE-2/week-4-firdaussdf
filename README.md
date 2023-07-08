@@ -57,7 +57,7 @@ To check domain availability, please click the Cek Domain button.
 
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/46001c44-16af-4af6-a3fe-5cbaee39b44f)
 
-3  Recheck Your Order
+- Recheck Your Order
 
 Check your order again, then check one of the payment methods. Niagahoster provides various payment methods, from virtual account transfers, QRIS, cash, and many more.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/8883e0a9-09bf-4a68-a0a5-3d801219fcea)
@@ -70,37 +70,37 @@ follow this step
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/ccf6c215-5acb-4232-a0b7-8e40a8889d0b)
 
 
-verification
+-verification
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/f6dc2874-2154-4686-b3c0-e05ee3b7a421)
 
 ## Connect to Domain and DNS
-1. Step 1 – Add a New Cloudflare Domain
-2. Adding Domains
+- Step 1 – Add a New Cloudflare Domain
+-  Adding Domains
 In order for CloudFlare to connect and work properly, make sure you have added a domain first. As for how to add a domain, please click Add Site then write the domain name. After completing entering the domain name, please click Add Site.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/f48a19e3-d8b2-4226-96db-7b78b3952daa)
-3.Then, a column will appear to enter the domain name or website that will be synchronized with CloudFlare. Please write the domain name or website in the column as below, then click Add site.
+- Then, a column will appear to enter the domain name or website that will be synchronized with CloudFlare. Please write the domain name or website in the column as below, then click Add site.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/e90b82d5-721b-43d5-93b8-4d0e6db583b9)
-4. Choose a CloudFlare Package
+- Choose a CloudFlare Package
 After that, you will be directed to the CloudFlare Package that will be used. There are various free to paid CloudFlare Plans. To choose a free CloudFlare Package, please select the Free Package. Then click Continue.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/b56e69d1-ed47-45c1-97aa-0543cc8175b4)
-5. The process of scanning DNS records on your domain will run. Wait until the process is complete
-6. The results of the DNS record scan on the domain will be displayed. Scroll down and click the Continue button to continue
-7. You will enter the instructions page to change your domain nameservers. Ignore it first, then click Done, check nameservers.
-8. On this page, immediately click Finish later.
+  -The process of scanning DNS records on your domain will run. Wait until the process is complete
+  -The results of the DNS record scan on the domain will be displayed. Scroll down and click the Continue button to continue
+  -You will enter the instructions page to change your domain nameservers. Ignore it first, then click Done, check nameservers.
+  - On this page, immediately click Finish later.
 
 # Changing Nameservers in the Niagahoster Member Area
-1. You can first record or copy Nameservers 1 and 2 from the Cloudflare dashboard
+- You can first record or copy Nameservers 1 and 2 from the Cloudflare dashboard
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/2e7df7db-4b86-43d9-86b1-f572f64aa645)
 
-2. Enter the Niagahoster Member Area. Select your Services menu, then click the Domains submenu. Next, click the Manage Service button to set the name server.
+-Enter the Niagahoster Member Area. Select your Services menu, then click the Domains submenu. Next, click the Manage Service button to set the name server.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/8439a526-6270-4167-b37f-f198b8976c72)
 
-3.In the Domain Overview section, click the Change Nameserver button.
+-In the Domain Overview section, click the Change Nameserver button.
 ![image](https://github.com/RevoU-FSSE-2/week-4-firdaussdf/assets/137057784/ff412e27-fc9b-49ba-80a5-548230ce815b)
 
-4. Then, make sure Nameservers 1 and 2 match the Nameservers on the Cloudflare dashboard.
+- Then, make sure Nameservers 1 and 2 match the Nameservers on the Cloudflare dashboard.
 
-5. If the domain Nameservers have been adjusted, then try reloading the Cloudflare dashboard page. Make sure the message “Great news! Cloudflare is now protecting your site.”
+- If the domain Nameservers have been adjusted, then try reloading the Cloudflare dashboard page. Make sure the message “Great news! Cloudflare is now protecting your site.”
 
 #Verifying Nameservers on Cloudflare
 
@@ -108,8 +108,8 @@ After the nameservers have been connected, now is the time for you to verify the
 
 Here are the steps to verify nameservers on Cloudflare:
 
-1. You can re-login to Cloudflare here: dash.cloudflare.com/login. Enter the account email and password. Then, click Log in.
-2. You will be redirected to a page to the Home page. Note the status of the domain:
+- You can re-login to Cloudflare here: dash.cloudflare.com/login. Enter the account email and password. Then, click Log in.
+- You will be redirected to a page to the Home page. Note the status of the domain:
 
 Active: Domain nameservers have been successfully adjusted.
 Pending: Still in the propagation period or the domain nameservers have not been adjusted.
